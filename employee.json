@@ -1,0 +1,68 @@
+{
+    "people": [
+        {
+            "name": "Ashi Parashar",
+            "place": "Harda",
+            "dateOfBirth": "02/11/2001",
+            "age": 22,
+            "mobileNumber": "8462097488",
+            "aadharNumber": "491163920515"
+        },
+        {
+            "name": "Sakshi Wanode",
+            "place": "Chindwada",
+            "dateOfBirth": "17/11/2002",
+            "age": 21,
+            "mobileNumber": "6263826064",
+            "aadharNumber": "697432107678"
+        },
+        {
+            "name": "Akash singh",
+            "place": "Kanpur",
+            "dateOfBirth": "26/9/2001",
+            "age": 22,
+            "mobileNumber": "9696285593",
+            "aadharNumber": "697432105465"
+        },
+        {
+            "name": "Mahesh Choudhary",
+            "place": "Basti",
+            "dateOfBirth": "15/7/2002",
+            "age": 22,
+            "mobileNumber": "9511152634",
+            "aadharNumber": "697789610767"
+        },
+        {
+            "name": "Anant Saxena",
+            "place": "Bhopal",
+            "dateOfBirth": "19/04/2002",
+            "age": 22,
+            "mobileNumber": "7477294570",
+            "aadharNumber": "746932107678"
+        },
+        {
+            "name": "Kushagra Chaube",
+            "place": "Betul",
+            "dateOfBirth": "12/03/2003",
+            "age": 21,
+            "mobileNumber": "9301806480",
+            "aadharNumber": "676732107678"
+        },
+        {
+            "name": "Ukmesh Meena",
+            "place": "Bhopal",
+            "dateOfBirth": "12/06/2002",
+            "age": 22,
+            "mobileNumber": "8889491321",
+            "aadharNumber": "656783210768"
+        },
+        {
+            "name": "Divyansh Agarwal",
+            "place": "Chindwada",
+            "dateOfBirth": "11/04/2002",
+            "age": 22,
+            "mobileNumber": "8764443901",
+            "aadharNumber": "697675107678"
+        }
+    ]
+}

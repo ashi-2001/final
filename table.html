@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Table</title>
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h2 class="mb-4">Employee table</h2>
+      <form>
+        <div class="mb-3">
+          <label for="name" class="form-label"></label>
+          <input
+            name="name"
+            type="text"
+            class="form-control"
+            id="name"
+            placeholder="Enter your full name"
+          />
+        </div>
+        <div>
+          <button type="submit" class="btn btn-primary btn w-25">Search</button>
+        </div>
+      </form>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Date of Birth</th>
+            <th>Age</th>
+            <th>Mobile Number</th>
+            <th>Aadhar Card Number</th>
+          </tr>
+          <tr id="row">
+            <td></td>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <script src="table.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
